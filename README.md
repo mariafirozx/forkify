@@ -1,11 +1,11 @@
-**#Forkifyco**
+**# Forkifyco**
 
- ##About
+ ## About
  
  - Searching recipes across the internet made easy!
 
 
-##Key Functionalities
+## Key Functionalities
 
 - search recipes 
 - adjust servings on each viewed recipe
